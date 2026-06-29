@@ -1,0 +1,1 @@
+INSERT INTO tasks (title, completed) VALUES ('Buy groceries', FALSE), ('Read a book', TRUE), ('Write blog post', FALSE), ('Exercise', TRUE), ('Plan vacation', FALSE);
